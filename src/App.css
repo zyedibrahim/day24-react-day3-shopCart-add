@@ -1,0 +1,45 @@
+.navbar-brand{
+  margin-left: 70px;
+  
+  }
+  
+  body{
+  
+    background-image: url("https://media.istockphoto.com/id/1289226223/vector/organic-grocery-shopping-web-banner-design-for-store-online-market-home-delivery-line-vector.jpg?s=1024x1024&w=is&k=20&c=wRFN2fY0mpI741NS3XFGRUGBzjsZL4AS_Yxw7hEDjzI=");
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  
+  
+  }
+  
+  nav{
+  
+   background-color: black;
+  z-index: 1;
+  opacity: 0.9;
+  background-size: cover;
+  
+  
+  }
+  .nav-item{
+  
+    margin-left:15px ;
+    margin-right:15px ;
+  
+  
+  }
+  
+  .bg{
+  
+  background-color: rgb(235, 235, 235);
+  
+  
+  }
+  
+  .text-muted {
+    --bs-text-opacity: 1;
+    color: rgb(255 255 255 / 75%)!important;
+  }
+  
